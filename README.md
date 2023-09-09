@@ -7,3 +7,5 @@ Currently, I am enrolled in a 2-month course that focuses on Project Management 
 ### Chapter 2: Agile Methodology 
 ### Chapter 3: People Domain
 ### Chapter 4: Process Domain 
+* Determine the project methodology: [Methodology](https://drive.google.com/file/d/1IhguejvIsGUVVpL2TSqcgdX4YCQWQn3I/view?usp=sharing)
+* Plane and Define the scope: [Scope](https://drive.google.com/file/d/1R93NRuyB6an2HnPgJePZW1Y7LFYjpDHy/view?usp=sharing)
