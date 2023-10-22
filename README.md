@@ -13,3 +13,10 @@ Currently, I am enrolled in a 2-month course that focuses on Project Management 
 * Plan and Define the Scope: [Scope](https://drive.google.com/file/d/1R93NRuyB6an2HnPgJePZW1Y7LFYjpDHy/view?usp=sharing)
 * Plan and Manage the Schedule: [Schedule](https://drive.google.com/file/d/1pXjGm6Yw79_KXewdm1gOiwW8W0gWcLkE/view?usp=sharing)
 * Plan and Manage the Cost: [Cost](https://drive.google.com/file/d/14iAmGInrb0LIBQPs2nZTuX6Ao4X6AKDm/view?usp=sharing)
+* Plan and manage the quality of products: [Quality](https://drive.google.com/file/d/1IRLJmCsDlKzDMcT1d7Mba6YzIH_r0zwC/view?usp=sharing)
+* Assess and manage Risks: [Risks](https://drive.google.com/file/d/15CWmPmcJl2HoPiiFBAK-r8Z5MvyWk_hN/view?usp=sharing)
+* Plan and manage procurement: [Procurement](https://drive.google.com/file/d/1c47Y_v18ECptV9sg9k5Fhbe0FBw9L7gq/view?usp=sharing)
+* Integrated Project Planning Activities: [Integration](https://drive.google.com/file/d/1NH2CV3OKF9fe6XN0ryT_8JqGKBb-Ph75/view?usp=sharing)
+
+### Chapter 5: Business Environment 
+* The document of this chapter: [Business](https://drive.google.com/file/d/1wqahgtuaFBFL-qowMQLNO9qK9O6OtvrP/view?usp=sharing)
