@@ -1,5 +1,5 @@
 # Project-Management-Professional
-Currently, I am enrolled in a 2-month course that focuses on Project Management Professional (PMP) certification. The course is structured in a way that equips me with the knowledge and skills necessary to excel in project management. It covers essential project management concepts, Agile methodology, and tools that help in leading projects, collaborating with teams, managing risks, and ensuring outcomes.
+I am enrolled in a 2-month course focusing on Project Management Professional (PMP) certification. The course is structured in a way that equips me with the knowledge and skills necessary to excel in project management. It covers essential project management concepts, Agile methodology, and tools that help lead projects, collaborate with teams, manage risks, and ensure outcomes.
 
 ### Chapter 1: Project management framework
 * The document of this Chapter: [Framework](https://drive.google.com/file/d/1vlN5rtGyKOrk9cdsCyDcxOQI_hB0NnuR/view?usp=sharing)
@@ -20,3 +20,7 @@ Currently, I am enrolled in a 2-month course that focuses on Project Management 
 
 ### Chapter 5: Business Environment 
 * The document of this chapter: [Business](https://drive.google.com/file/d/1wqahgtuaFBFL-qowMQLNO9qK9O6OtvrP/view?usp=sharing)
+  
+### Resources 
+* [Drive folder].(https://drive.google.com/drive/folders/17Ujjs6e3XRRp_WZGtur_LdDbQIao48Re?usp=sharing)
+  
