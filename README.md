@@ -22,5 +22,5 @@ I am enrolled in a 2-month course focusing on Project Management Professional (P
 * The document of this chapter: [Business](https://drive.google.com/file/d/1wqahgtuaFBFL-qowMQLNO9qK9O6OtvrP/view?usp=sharing)
   
 ### Resources 
-* [Drive folder].(https://drive.google.com/drive/folders/17Ujjs6e3XRRp_WZGtur_LdDbQIao48Re?usp=sharing)
+* [Drive folder](https://drive.google.com/drive/folders/17Ujjs6e3XRRp_WZGtur_LdDbQIao48Re?usp=sharing)
   
